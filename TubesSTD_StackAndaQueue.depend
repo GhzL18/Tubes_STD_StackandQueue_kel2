@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\asus\onedrive\documents\tp\tubesstd_stackandaqueue\main.cpp
+	<iostream>
+
+1672577491 source:d:\kuliah\s3\std\tubesstd_stackandaqueue\main.cpp
+	<iostream>
+	"Head.h"
+
+1672577327 source:d:\kuliah\s3\std\tubesstd_stackandaqueue\body.cpp
+	"Head.h"
+
+1672577483 d:\kuliah\s3\std\tubesstd_stackandaqueue\head.h
+	<iostream>
+	<stack>
+	<algorithm>
+
+1672667364 source:d:\kuliah\s3\std\tubesstd_stackandaqueue - copy - copy\body.cpp
+	"Head.h"
+
+1672667395 d:\kuliah\s3\std\tubesstd_stackandaqueue - copy - copy\head.h
+	<iostream>
+
+1672664284 source:d:\kuliah\s3\std\tubesstd_stackandaqueue - copy - copy\main.cpp
+	<iostream>
+	"Head.h"
+
+1672670739 source:d:\kuliah\s3\std\this tbh\body.cpp
+	"Head.h"
+
+1672670490 d:\kuliah\s3\std\this tbh\head.h
+	<iostream>
+
+1672670752 source:d:\kuliah\s3\std\this tbh\main.cpp
+	<iostream>
+	"Head.h"
+
+1672758518 source:d:\kuliah\semester 3\strukdat\tubes\this tbh\body.cpp
+	"Head.h"
+
+1672757097 d:\kuliah\semester 3\strukdat\tubes\this tbh\head.h
+	<iostream>
+
+1673169324 source:d:\kuliah\semester 3\strukdat\tubes\this tbh\main.cpp
+	<iostream>
+	"Head.h"
+
+1673542531 source:d:\kuliah\s3\std\new folder\this tbh\body.cpp
+	"Head.h"
+
+1673542061 d:\kuliah\s3\std\new folder\this tbh\head.h
+	<iostream>
+
+1673542196 source:d:\kuliah\s3\std\new folder\this tbh\main.cpp
+	<iostream>
+	"Head.h"
+
+1673671750 source:d:\kuliah\s3\std\new folder\tubes std_ok\body.cpp
+	"Head.h"
+
+1673673078 d:\kuliah\s3\std\new folder\tubes std_ok\head.h
+	<iostream>
+
+1673671540 source:d:\kuliah\s3\std\new folder\tubes std_ok\main.cpp
+	<iostream>
+	"Head.h"
+
